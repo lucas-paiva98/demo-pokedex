@@ -1,0 +1,10 @@
+.App {
+  font-family: Roboto;
+  text-align: center;
+}
+.Header {
+  display: flex;
+  flex-direction: row;
+  height: 60px;
+  align-items: center;
+}
